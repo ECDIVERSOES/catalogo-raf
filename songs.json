@@ -8424,6 +8424,12 @@
         "genero": "Folk"
     },
     {
+        "cantor": "Bob Dylan",
+        "numero": 20726,
+        "musica": "LIKE A ROLLING STONE",
+        "genero": "Folk Rock / Rock / Blues"
+    },
+    {
         "cantor": "Bob Marley",
         "numero": 4718,
         "musica": "I Shot The Sheriff",
@@ -14694,6 +14700,12 @@
         "genero": "Pop Rock"
     },
     {
+        "cantor": "Coldplay",
+        "numero": 20723,
+        "musica": "FEELSLIKEIMFALLINGINLOVE",
+        "genero": "Pop Rock / Alternative Rock"
+    },
+    {
         "cantor": "Coldplay - Beyonce",
         "numero": 19615,
         "musica": "Hymn For The Weekend",
@@ -14992,6 +15004,12 @@
         "numero": 20701,
         "musica": "BABY BABY",
         "genero": "Eurodance"
+    },
+    {
+        "cantor": "Corona",
+        "numero": 20728,
+        "musica": "THE SUMMER IS MAGIC",
+        "genero": "Eurodance / Dance"
     },
     {
         "cantor": "Corrs (The)",
@@ -19006,6 +19024,12 @@
         "numero": 20594,
         "musica": "Eyes Closed",
         "genero": "Pop"
+    },
+    {
+        "cantor": "Ed Sheeran",
+        "numero": 20721,
+        "musica": "AZIZAM",
+        "genero": "Pop / Folk Pop / Acoustic"
     },
     {
         "cantor": "Ed Sheeran - Justin Bieber",
@@ -34182,6 +34206,12 @@
         "genero": "Hip Hop"
     },
     {
+        "cantor": "Kasino",
+        "numero": 20722,
+        "musica": "CAN´T GET OVER",
+        "genero": "Eurodance / Dance"
+    },
+    {
         "cantor": "Kate Bush",
         "numero": 19157,
         "musica": "Wuthering Heights",
@@ -35568,6 +35598,12 @@
         "genero": "Pop, Dance-pop, Eletrônico"
     },
     {
+        "cantor": "Lady Gaga",
+        "numero": 20729,
+        "musica": "VANISH INTO YOU",
+        "genero": "Pop / Dance Pop / Electropop"
+    },
+    {
         "cantor": "Lady Gaga - Ariana Grande",
         "numero": 20128,
         "musica": "Rain On Me",
@@ -36786,6 +36822,12 @@
         "genero": "Rock"
     },
     {
+        "cantor": "Lenny Kravitz",
+        "numero": 20725,
+        "musica": "HONEY",
+        "genero": "Rock / Funk Rock / Soul"
+    },
+    {
         "cantor": "Leno",
         "numero": 3736,
         "musica": "A Pobreza",
@@ -37930,6 +37972,12 @@
         "numero": 20534,
         "musica": "Dreamin´",
         "genero": "Pop"
+    },
+    {
+        "cantor": "Liverpool Express",
+        "numero": 20730,
+        "musica": "YOU ARE MY LOVE",
+        "genero": "Pop Rock / Soft Rock"
     },
     {
         "cantor": "Living In A Box",
@@ -45658,6 +45706,12 @@
         "numero": 19056,
         "musica": "I Don'T Love You",
         "genero": "Emo"
+    },
+    {
+        "cantor": "My Chemical Romance",
+        "numero": 20724,
+        "musica": "HELENA",
+        "genero": "Emo / Alternative Rock / Post-Hardcore"
     },
     {
         "cantor": "Mylena",
@@ -61216,6 +61270,12 @@
         "numero": 20685,
         "musica": "August",
         "genero": "Pop"
+    },
+    {
+        "cantor": "Taylor Swift",
+        "numero": 20727,
+        "musica": "MINE",
+        "genero": "Pop / Country (início de carreira) / Synthpop"
     },
     {
         "cantor": "Taylor Swift - Brendon Urie",
