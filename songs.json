@@ -4638,6 +4638,12 @@
         "genero": "Pagode"
     },
     {
+        "cantor": "Atitude 67",
+        "numero": 17960,
+        "musica": "VIDINHA",
+        "genero": "Pagode"
+    },
+    {
         "cantor": "Atitude 67 - Analaga - Vitor Kley",
         "numero": 17215,
         "musica": "Isso E Amor",
@@ -24270,6 +24276,12 @@
         "genero": "Pop"
     },
     {
+        "cantor": "Gabriela Rocha",
+        "numero": 17952,
+        "musica": "LUGAR SECRETO",
+        "genero": "Gospel"
+    },
+    {
         "cantor": "Gabrielle",
         "numero": 19730,
         "musica": "Fallen Angel",
@@ -28212,6 +28224,12 @@
         "genero": "Sertanejo"
     },
     {
+        "cantor": "Hugo e Guilherme - Maiara e Maraisa",
+        "numero": 17955,
+        "musica": "O MEU CORACAO EM SUAS MAOS",
+        "genero": "Sertanejo"
+    },
+    {
         "cantor": "Hugo E Guilherme - Marilia Mendonca",
         "numero": 17393,
         "musica": "Mal Feito",
@@ -28287,6 +28305,12 @@
         "cantor": "Hugo Pena E Gabriel",
         "numero": 15821,
         "musica": "Estrela",
+        "genero": "Sertanejo"
+    },
+    {
+        "cantor": "Hugo Pena e Gabriel",
+        "numero": 17957,
+        "musica": "PRA LA DE BAGDA",
         "genero": "Sertanejo"
     },
     {
@@ -37704,6 +37728,12 @@
         "genero": "Sertanejo"
     },
     {
+        "cantor": "Limão com Mel",
+        "numero": 17954,
+        "musica": "NAO QUERO MAIS (EVERY BEAT OF MY HEART)",
+        "genero": "Forró"
+    },
+    {
         "cantor": "Limp Bizkit",
         "numero": 19813,
         "musica": "Behind Blue Eyes",
@@ -44055,6 +44085,12 @@
         "cantor": "Menos E Mais - Matheus Fernandes",
         "numero": 17774,
         "musica": "Lapada Dela",
+        "genero": "Sertanejo"
+    },
+    {
+        "cantor": "Menos e Mais - Simone Mendes",
+        "numero": 17956,
+        "musica": "P DO PECADO",
         "genero": "Sertanejo"
     },
     {
@@ -51870,6 +51906,12 @@
         "genero": "MPB"
     },
     {
+        "cantor": "Preta Gil",
+        "numero": 17959,
+        "musica": "TUDO VAI PASSAR",
+        "genero": "Pop"
+    },
+    {
         "cantor": "Preta Gil - Gal Costa",
         "numero": 16295,
         "musica": "Vá Se Benzer",
@@ -55080,6 +55122,12 @@
         "genero": "MPB / Folk"
     },
     {
+        "cantor": "Roberta Campos - Natiruts",
+        "numero": 17953,
+        "musica": "MIRAGEM",
+        "genero": "MPB, Reggae"
+    },
+    {
         "cantor": "Roberta Campos - Vitor Kley",
         "numero": 16684,
         "musica": "Fique Na Minha Vida",
@@ -57381,6 +57429,12 @@
         "cantor": "Samuel Rosa",
         "numero": 17877,
         "musica": "Segue O Jogo",
+        "genero": "Rock"
+    },
+    {
+        "cantor": "Samuel Rosa",
+        "numero": 17958,
+        "musica": "RIO DENTRO DO MAR",
         "genero": "Rock"
     },
     {
@@ -62020,6 +62074,12 @@
         "numero": 15754,
         "musica": "Tá Soltinha",
         "genero": "Sertanejo"
+    },
+    {
+        "cantor": "Thiago Brava - MC Pikeno e Menor",
+        "numero": 17951,
+        "musica": "AMIGA PARCEIRA",
+        "genero": "Sertanejo, Funk"
     },
     {
         "cantor": "Thiago Brava - Turma Do Pagode",
