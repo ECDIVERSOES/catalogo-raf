@@ -1134,6 +1134,12 @@
         "genero": "Hip-Hop"
     },
     {
+        "cantor": "Akon - Colby O´Donis",
+        "numero": 20731,
+        "musica": "BEAUTIFUL",
+        "genero": "R&B, Pop"
+    },
+    {
         "cantor": "Akundum",
         "numero": 3563,
         "musica": "Emaconhada",
@@ -8242,6 +8248,12 @@
         "numero": 19617,
         "musica": "Iron Man",
         "genero": "Metal"
+    },
+    {
+        "cantor": "Black Sabbath",
+        "numero": 20739,
+        "musica": "WAR PIGS",
+        "genero": "Heavy Metal"
     },
     {
         "cantor": "Blackpink",
@@ -18474,6 +18486,12 @@
         "genero": "Pop"
     },
     {
+        "cantor": "Double You",
+        "numero": 20740,
+        "musica": "WHAT DID YOU DO (WITH MY LOVE)",
+        "genero": "Eurodance, Dance Pop"
+    },
+    {
         "cantor": "Douglas E Vinicius - Mc Bruninho",
         "numero": 17134,
         "musica": "Figurinha",
@@ -18574,6 +18592,12 @@
         "numero": 20602,
         "musica": "Dance The Night",
         "genero": "Pop"
+    },
+    {
+        "cantor": "Dua Lipa",
+        "numero": 20738,
+        "musica": "TRAINING SEASON",
+        "genero": "Pop, Dance Pop"
     },
     {
         "cantor": "Duda",
@@ -40248,6 +40272,12 @@
         "genero": "Pop"
     },
     {
+        "cantor": "Madonna",
+        "numero": 20737,
+        "musica": "RAY OF LIGHT",
+        "genero": "Pop, Dance Pop"
+    },
+    {
         "cantor": "Madonna - Anitta",
         "numero": 20015,
         "musica": "Faz Gostoso",
@@ -47554,6 +47584,12 @@
         "numero": 9992,
         "musica": "What Am I To You",
         "genero": "Jazz"
+    },
+    {
+        "cantor": "Norah Jones - The Peter Malick Group",
+        "numero": 20736,
+        "musica": "NEW YORK CITY",
+        "genero": "Jazz, Blues"
     },
     {
         "cantor": "Novo Som",
@@ -57990,6 +58026,12 @@
         "genero": "Pop"
     },
     {
+        "cantor": "Savage",
+        "numero": 20732,
+        "musica": "DON´T CRY TONIGHT",
+        "genero": "Hip hop, R&B"
+    },
+    {
         "cantor": "Savage Garden",
         "numero": 4911,
         "musica": "I Knew I Loved You",
@@ -58720,6 +58762,12 @@
         "numero": 20702,
         "musica": "HEART OF GOLD",
         "genero": "Pop, Pop rock"
+    },
+    {
+        "cantor": "Shawn Mendes",
+        "numero": 20733,
+        "musica": "HEAVY",
+        "genero": "Pop, Folk Pop"
     },
     {
         "cantor": "Shawn Mendes - Camila Cabello",
@@ -60486,6 +60534,12 @@
         "genero": "Pop"
     },
     {
+        "cantor": "Spice Girls",
+        "numero": 20734,
+        "musica": "HOLLER",
+        "genero": "Pop, Dance Pop"
+    },
+    {
         "cantor": "Spin Doctors",
         "numero": 19949,
         "musica": "Two Princes",
@@ -61036,6 +61090,12 @@
         "numero": 20692,
         "musica": "CHOP SUEY",
         "genero": "Metal alternativo, hard rock, nu metal e elementos de música armênia"
+    },
+    {
+        "cantor": "System Of A Down",
+        "numero": 20735,
+        "musica": "LONELY DAY",
+        "genero": "Alternative Metal, Nu Metal"
     },
     {
         "cantor": "T.A.T.U.",
