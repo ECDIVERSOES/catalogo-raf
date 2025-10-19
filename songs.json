@@ -192,48 +192,6 @@
         "genero": "Gospel"
     },
     {
-        "cantor": "A-Ha",
-        "numero": 4973,
-        "musica": "Take On Me",
-        "genero": "Synthpop"
-    },
-    {
-        "cantor": "A-Ha",
-        "numero": 19213,
-        "musica": "Hunting High And Low",
-        "genero": "Synthpop"
-    },
-    {
-        "cantor": "A-Ha",
-        "numero": 19400,
-        "musica": "You Are The One",
-        "genero": "Synthpop"
-    },
-    {
-        "cantor": "A-Ha",
-        "numero": 19853,
-        "musica": "Stay On These Roads",
-        "genero": "Synthpop"
-    },
-    {
-        "cantor": "A-Ha",
-        "numero": 20034,
-        "musica": "Theres Never A Forever Thing",
-        "genero": "Synthpop"
-    },
-    {
-        "cantor": "A-Ha",
-        "numero": 20094,
-        "musica": "Crying In The Rain",
-        "genero": "Synthpop"
-    },
-    {
-        "cantor": "A-Ha",
-        "numero": 20508,
-        "musica": "Touchy!",
-        "genero": "Synthpop"
-    },
-    {
         "cantor": "Abba",
         "numero": 20747,
         "musica": "TAKE A CHANCE ON ME",
@@ -1078,6 +1036,48 @@
         "numero": 15202,
         "musica": "130 Anos",
         "genero": "Pop"
+    },
+    {
+        "cantor": "A-Ha",
+        "numero": 4973,
+        "musica": "Take On Me",
+        "genero": "Synthpop"
+    },
+    {
+        "cantor": "A-Ha",
+        "numero": 19213,
+        "musica": "Hunting High And Low",
+        "genero": "Synthpop"
+    },
+    {
+        "cantor": "A-Ha",
+        "numero": 19400,
+        "musica": "You Are The One",
+        "genero": "Synthpop"
+    },
+    {
+        "cantor": "A-Ha",
+        "numero": 19853,
+        "musica": "Stay On These Roads",
+        "genero": "Synthpop"
+    },
+    {
+        "cantor": "A-Ha",
+        "numero": 20034,
+        "musica": "Theres Never A Forever Thing",
+        "genero": "Synthpop"
+    },
+    {
+        "cantor": "A-Ha",
+        "numero": 20094,
+        "musica": "Crying In The Rain",
+        "genero": "Synthpop"
+    },
+    {
+        "cantor": "A-Ha",
+        "numero": 20508,
+        "musica": "Touchy!",
+        "genero": "Synthpop"
     },
     {
         "cantor": "Air Supply",
@@ -3006,6 +3006,12 @@
         "genero": "Sertanejo"
     },
     {
+        "cantor": "Ana Castela",
+        "numero": 17976,
+        "musica": "MENINO DO LACO COMPRIDO",
+        "genero": "Sertanejo"
+    },
+    {
         "cantor": "Ana Castela - Gustavo Mioto",
         "numero": 17866,
         "musica": "Fronteira",
@@ -3315,6 +3321,12 @@
         "cantor": "Ângela Rô Rô",
         "numero": 15896,
         "musica": "Escândalo",
+        "genero": "MPB"
+    },
+    {
+        "cantor": "Ângela Rô Rô",
+        "numero": 17988,
+        "musica": "RENUNCIA",
         "genero": "MPB"
     },
     {
@@ -5016,36 +5028,6 @@
         "genero": "Pop"
     },
     {
-        "cantor": "B-52'S (The)",
-        "numero": 19681,
-        "musica": "(Meet) The Flintstones",
-        "genero": "Pop"
-    },
-    {
-        "cantor": "B-52'S (The)",
-        "numero": 19860,
-        "musica": "Legal Tender",
-        "genero": "Pop"
-    },
-    {
-        "cantor": "B-52'S (The)",
-        "numero": 20118,
-        "musica": "Private Idaho",
-        "genero": "Pop"
-    },
-    {
-        "cantor": "B-52S (The)",
-        "numero": 20169,
-        "musica": "Roam",
-        "genero": "Pop"
-    },
-    {
-        "cantor": "B-52S The",
-        "numero": 19935,
-        "musica": "Love Shack",
-        "genero": "Pop"
-    },
-    {
         "cantor": "B.J.Thomas",
         "numero": 4546,
         "musica": "Raindrops Keep Falling On My Head",
@@ -5073,6 +5055,36 @@
         "cantor": "B.O.B. - Bruno Mars",
         "numero": 20566,
         "musica": "Nothin` On You",
+        "genero": "Pop"
+    },
+    {
+        "cantor": "B-52S (The)",
+        "numero": 20169,
+        "musica": "Roam",
+        "genero": "Pop"
+    },
+    {
+        "cantor": "B-52'S (The)",
+        "numero": 19681,
+        "musica": "(Meet) The Flintstones",
+        "genero": "Pop"
+    },
+    {
+        "cantor": "B-52'S (The)",
+        "numero": 19860,
+        "musica": "Legal Tender",
+        "genero": "Pop"
+    },
+    {
+        "cantor": "B-52'S (The)",
+        "numero": 20118,
+        "musica": "Private Idaho",
+        "genero": "Pop"
+    },
+    {
+        "cantor": "B-52S The",
+        "numero": 19935,
+        "musica": "Love Shack",
         "genero": "Pop"
     },
     {
@@ -8868,18 +8880,6 @@
         "genero": "Pop"
     },
     {
-        "cantor": "Br'Oz",
-        "numero": 6672,
-        "musica": "Prometida",
-        "genero": "Pop"
-    },
-    {
-        "cantor": "Br'Oz",
-        "numero": 6715,
-        "musica": "Se Você Não Está Aqui",
-        "genero": "Pop"
-    },
-    {
         "cantor": "Braga Boys",
         "numero": 6036,
         "musica": "Uma Bomba",
@@ -9136,6 +9136,18 @@
         "numero": 5609,
         "musica": "Extra",
         "genero": "Gospel"
+    },
+    {
+        "cantor": "Br'Oz",
+        "numero": 6672,
+        "musica": "Prometida",
+        "genero": "Pop"
+    },
+    {
+        "cantor": "Br'Oz",
+        "numero": 6715,
+        "musica": "Se Você Não Está Aqui",
+        "genero": "Pop"
     },
     {
         "cantor": "Bruce Dickinson",
@@ -12180,6 +12192,12 @@
         "genero": "Sertanejo"
     },
     {
+        "cantor": "César Menotti e Fabiano",
+        "numero": 17985,
+        "musica": "PERIGOSA E LINDA",
+        "genero": "Sertanejo"
+    },
+    {
         "cantor": "Cesar Menotti E Fabiano - Ana Castela",
         "numero": 17784,
         "musica": "Eu Sem Voce Nao Da",
@@ -12544,12 +12562,6 @@
         "numero": 20223,
         "musica": "Go To Be Real",
         "genero": "Pop"
-    },
-    {
-        "cantor": "Chi-Lites (The)",
-        "numero": 4949,
-        "musica": "Oh Girl",
-        "genero": "R&B"
     },
     {
         "cantor": "Chic",
@@ -13000,6 +13012,12 @@
         "numero": 17667,
         "musica": "Manguetown",
         "genero": "MPB"
+    },
+    {
+        "cantor": "Chi-Lites (The)",
+        "numero": 4949,
+        "musica": "Oh Girl",
+        "genero": "R&B"
     },
     {
         "cantor": "Chimarruts",
@@ -15672,24 +15690,6 @@
         "genero": "Pop"
     },
     {
-        "cantor": "D'Black",
-        "numero": 1271,
-        "musica": "Revolta",
-        "genero": "Pop"
-    },
-    {
-        "cantor": "D'Black",
-        "numero": 9876,
-        "musica": "Sem Ar",
-        "genero": "Pop"
-    },
-    {
-        "cantor": "D'Black-Negra Li",
-        "numero": 9902,
-        "musica": "Um Minuto",
-        "genero": "Pop"
-    },
-    {
         "cantor": "Dado Dolabella",
         "numero": 6758,
         "musica": "Vem Ni Mim",
@@ -16128,12 +16128,6 @@
         "genero": "Sertanejo"
     },
     {
-        "cantor": "Daniel-Camilo",
-        "numero": 6736,
-        "musica": "Meu Reino Encantado",
-        "genero": "Pop"
-    },
-    {
         "cantor": "Daniela Mercury",
         "numero": 1027,
         "musica": "Sol Do Sul",
@@ -16308,10 +16302,22 @@
         "genero": "Pop"
     },
     {
+        "cantor": "Daniel-Camilo",
+        "numero": 6736,
+        "musica": "Meu Reino Encantado",
+        "genero": "Pop"
+    },
+    {
         "cantor": "Danilo Caymmi",
         "numero": 2716,
         "musica": "Nada A Perder",
         "genero": "Pop"
+    },
+    {
+        "cantor": "Danilo e Davi",
+        "numero": 17981,
+        "musica": "APAGA APAGA APAGA",
+        "genero": "Sertanejo Universitário"
     },
     {
         "cantor": "Danni Carlos",
@@ -16539,6 +16545,24 @@
         "cantor": "Dayne Taylor",
         "numero": 9135,
         "musica": "Love Will Lead You Back",
+        "genero": "Pop"
+    },
+    {
+        "cantor": "D'Black",
+        "numero": 1271,
+        "musica": "Revolta",
+        "genero": "Pop"
+    },
+    {
+        "cantor": "D'Black",
+        "numero": 9876,
+        "musica": "Sem Ar",
+        "genero": "Pop"
+    },
+    {
+        "cantor": "D'Black-Negra Li",
+        "numero": 9902,
+        "musica": "Um Minuto",
         "genero": "Pop"
     },
     {
@@ -16938,6 +16962,12 @@
         "genero": "Pop"
     },
     {
+        "cantor": "Destinys Child",
+        "numero": 19953,
+        "musica": "Jumpin Jumpin",
+        "genero": "Pop"
+    },
+    {
         "cantor": "Destiny'S Child",
         "numero": 4971,
         "musica": "Survivor",
@@ -16953,12 +16983,6 @@
         "cantor": "Destiny'S Child",
         "numero": 19667,
         "musica": "Say My Name",
-        "genero": "Pop"
-    },
-    {
-        "cantor": "Destinys Child",
-        "numero": 19953,
-        "musica": "Jumpin Jumpin",
         "genero": "Pop"
     },
     {
@@ -18352,6 +18376,12 @@
         "numero": 17937,
         "musica": "NO MEIO DO PITIU",
         "genero": "Carimbó, Guitarrada, Música Popular Paraense (MPB regional amazônica)"
+    },
+    {
+        "cantor": "Dona Onete",
+        "numero": 17982,
+        "musica": "BOTO NAMORADOR",
+        "genero": "Carimbó"
     },
     {
         "cantor": "Donald Fagen",
@@ -24234,12 +24264,6 @@
         "genero": "Funk"
     },
     {
-        "cantor": "G-Clefs",
-        "numero": 4634,
-        "musica": "I Understand",
-        "genero": "Pop"
-    },
-    {
         "cantor": "Gabi Martins",
         "numero": 17163,
         "musica": "Nenem",
@@ -24795,6 +24819,12 @@
         "cantor": "Gazebo",
         "numero": 4912,
         "musica": "I Like Chopin",
+        "genero": "Pop"
+    },
+    {
+        "cantor": "G-Clefs",
+        "numero": 4634,
+        "musica": "I Understand",
         "genero": "Pop"
     },
     {
@@ -26262,6 +26292,12 @@
         "genero": "Samba"
     },
     {
+        "cantor": "Grupo Redenção",
+        "numero": 17975,
+        "musica": "MENINA DE ARUANDA",
+        "genero": "Pagode"
+    },
+    {
         "cantor": "Grupo Revelacao",
         "numero": 16779,
         "musica": "Shortinho Saint Tropez",
@@ -27088,6 +27124,12 @@
         "numero": 17915,
         "musica": "ME TRAIU COM GENTE FEIA",
         "genero": "Sertanejo romântico contemporâneo"
+    },
+    {
+        "cantor": "Gustavo Mioto - Ana Castela",
+        "numero": 17987,
+        "musica": "PRINCESA",
+        "genero": "Sertanejo"
     },
     {
         "cantor": "Gustavo Mioto - Anitta",
@@ -29148,12 +29190,6 @@
         "genero": "Pop"
     },
     {
-        "cantor": "Ira-Pitty",
-        "numero": 2888,
-        "musica": "Eu Quero Sempre Mais",
-        "genero": "Pop"
-    },
-    {
         "cantor": "Ira!",
         "numero": 17267,
         "musica": "Pra Ficar Comigo (Train In Vain)",
@@ -29169,6 +29205,12 @@
         "cantor": "Ira!",
         "numero": 17683,
         "musica": "E Assim Que Me Querem",
+        "genero": "Pop"
+    },
+    {
+        "cantor": "Ira-Pitty",
+        "numero": 2888,
+        "musica": "Eu Quero Sempre Mais",
         "genero": "Pop"
     },
     {
@@ -34098,12 +34140,6 @@
         "genero": "Rock"
     },
     {
-        "cantor": "K-Ci And Jojo",
-        "numero": 20136,
-        "musica": "All My Life",
-        "genero": "R&B"
-    },
-    {
         "cantor": "K.D.Lang",
         "numero": 9098,
         "musica": "Constant Craving",
@@ -34630,6 +34666,12 @@
         "numero": 19736,
         "musica": "Give It Up",
         "genero": "Disco, Funk"
+    },
+    {
+        "cantor": "K-Ci And Jojo",
+        "numero": 20136,
+        "musica": "All My Life",
+        "genero": "R&B"
     },
     {
         "cantor": "Keala Settle",
@@ -39456,6 +39498,12 @@
         "genero": "Forró"
     },
     {
+        "cantor": "Luiz Gonzaga",
+        "numero": 17980,
+        "musica": "ROENDO UNHA",
+        "genero": "Forró"
+    },
+    {
         "cantor": "Luiz Gonzaga - Elba Ramalho",
         "numero": 15714,
         "musica": "Qui Nem Jiló",
@@ -39708,15 +39756,15 @@
         "genero": "Pop"
     },
     {
-        "cantor": "Luka-Ségio Moah",
-        "numero": 9572,
-        "musica": "A Aposta",
-        "genero": "Pop"
-    },
-    {
         "cantor": "Lukas Graham",
         "numero": 19601,
         "musica": "7 Years",
+        "genero": "Pop"
+    },
+    {
+        "cantor": "Luka-Ségio Moah",
+        "numero": 9572,
+        "musica": "A Aposta",
         "genero": "Pop"
     },
     {
@@ -42480,6 +42528,12 @@
         "genero": "Pop"
     },
     {
+        "cantor": "Marina Sena",
+        "numero": 17977,
+        "musica": "NUMA ILHA",
+        "genero": "Pop"
+    },
+    {
         "cantor": "Marina Sena - Japãozin",
         "numero": 17905,
         "musica": "Dano Sarrada (Remix)",
@@ -43008,42 +43062,6 @@
         "genero": "Pop"
     },
     {
-        "cantor": "Mart'Nália",
-        "numero": 1075,
-        "musica": "Ela É Minha Cara",
-        "genero": "MPB"
-    },
-    {
-        "cantor": "Mart'Nália",
-        "numero": 1105,
-        "musica": "Cabide",
-        "genero": "MPB"
-    },
-    {
-        "cantor": "Mart'Nália",
-        "numero": 1107,
-        "musica": "Don'T Worry, Be Happy",
-        "genero": "MPB"
-    },
-    {
-        "cantor": "Mart'Nália",
-        "numero": 6894,
-        "musica": "Arpoador",
-        "genero": "MPB"
-    },
-    {
-        "cantor": "Mart'Nália",
-        "numero": 15053,
-        "musica": "Namora Comigo",
-        "genero": "MPB"
-    },
-    {
-        "cantor": "Mart'Nália",
-        "numero": 15833,
-        "musica": "Pra Que Chorar",
-        "genero": "MPB"
-    },
-    {
         "cantor": "Martika",
         "numero": 20649,
         "musica": "Toy Soldiers",
@@ -43192,6 +43210,42 @@
         "numero": 6921,
         "musica": "Ex-Amor",
         "genero": "Samba"
+    },
+    {
+        "cantor": "Mart'Nália",
+        "numero": 1075,
+        "musica": "Ela É Minha Cara",
+        "genero": "MPB"
+    },
+    {
+        "cantor": "Mart'Nália",
+        "numero": 1105,
+        "musica": "Cabide",
+        "genero": "MPB"
+    },
+    {
+        "cantor": "Mart'Nália",
+        "numero": 1107,
+        "musica": "Don'T Worry, Be Happy",
+        "genero": "MPB"
+    },
+    {
+        "cantor": "Mart'Nália",
+        "numero": 6894,
+        "musica": "Arpoador",
+        "genero": "MPB"
+    },
+    {
+        "cantor": "Mart'Nália",
+        "numero": 15053,
+        "musica": "Namora Comigo",
+        "genero": "MPB"
+    },
+    {
+        "cantor": "Mart'Nália",
+        "numero": 15833,
+        "musica": "Pra Que Chorar",
+        "genero": "MPB"
     },
     {
         "cantor": "Marvilla - Belo",
@@ -43480,6 +43534,12 @@
         "numero": 17626,
         "musica": "Exclusividade",
         "genero": "Sertanejo"
+    },
+    {
+        "cantor": "Matheus e Kauan",
+        "numero": 17978,
+        "musica": "QUEBRA MINHA PROMESSA",
+        "genero": "Sertanejo Universitário"
     },
     {
         "cantor": "Matheus E Kauan - Anitta",
@@ -43954,6 +44014,12 @@
         "numero": 7239,
         "musica": "Se Ela Dança Eu Danço",
         "genero": "Funk"
+    },
+    {
+        "cantor": "Mc Leozinho",
+        "numero": 17973,
+        "musica": "COPO DE VINNHO",
+        "genero": "Funk Melody"
     },
     {
         "cantor": "Mc Marcinho",
@@ -46296,6 +46362,12 @@
         "genero": "Pop"
     },
     {
+        "cantor": "Nathan",
+        "numero": 17971,
+        "musica": "AMA OU NAO AMA",
+        "genero": "Sertanejo"
+    },
+    {
         "cantor": "Natiruts",
         "numero": 1112,
         "musica": "Naticongo",
@@ -46402,36 +46474,6 @@
         "numero": 20657,
         "musica": "Where Are You Now",
         "genero": "Rock"
-    },
-    {
-        "cantor": "Ne-Yo",
-        "numero": 5973,
-        "musica": "So Sick",
-        "genero": "R&B"
-    },
-    {
-        "cantor": "Ne-Yo",
-        "numero": 20137,
-        "musica": "Beautiful Monster",
-        "genero": "R&B"
-    },
-    {
-        "cantor": "Ne-Yo",
-        "numero": 20618,
-        "musica": "Sexy Love",
-        "genero": "R&B"
-    },
-    {
-        "cantor": "Ne-Yo",
-        "numero": 20635,
-        "musica": "Closer",
-        "genero": "R&B"
-    },
-    {
-        "cantor": "Ne-Yo",
-        "numero": 20652,
-        "musica": "Because Of You",
-        "genero": "R&B"
     },
     {
         "cantor": "Nechvile",
@@ -47364,6 +47406,36 @@
         "genero": "MPB"
     },
     {
+        "cantor": "Ne-Yo",
+        "numero": 5973,
+        "musica": "So Sick",
+        "genero": "R&B"
+    },
+    {
+        "cantor": "Ne-Yo",
+        "numero": 20137,
+        "musica": "Beautiful Monster",
+        "genero": "R&B"
+    },
+    {
+        "cantor": "Ne-Yo",
+        "numero": 20618,
+        "musica": "Sexy Love",
+        "genero": "R&B"
+    },
+    {
+        "cantor": "Ne-Yo",
+        "numero": 20635,
+        "musica": "Closer",
+        "genero": "R&B"
+    },
+    {
+        "cantor": "Ne-Yo",
+        "numero": 20652,
+        "musica": "Because Of You",
+        "genero": "R&B"
+    },
+    {
         "cantor": "Nicholas Torres",
         "numero": 15149,
         "musica": "Rock Das Lanchonetes",
@@ -48034,12 +48106,6 @@
         "numero": 16315,
         "musica": "Não Espero Mais",
         "genero": "Indie Rock"
-    },
-    {
-        "cantor": "O-Town",
-        "numero": 4856,
-        "musica": "All Or Nothing",
-        "genero": "Pop"
     },
     {
         "cantor": "Oasis",
@@ -49006,6 +49072,12 @@
         "numero": 9269,
         "musica": "Sittin' On The Dock Of The Bay",
         "genero": "Soul"
+    },
+    {
+        "cantor": "O-Town",
+        "numero": 4856,
+        "musica": "All Or Nothing",
+        "genero": "Pop"
     },
     {
         "cantor": "Otto",
@@ -51870,6 +51942,12 @@
         "genero": "Reggae, Reggae roots"
     },
     {
+        "cantor": "Planta e Raiz",
+        "numero": 17986,
+        "musica": "PIQUE NATTY DREAD",
+        "genero": "Reggae"
+    },
+    {
         "cantor": "Planta E Raiz - Chorão",
         "numero": 2706,
         "musica": "Gueto Do Universo",
@@ -52066,6 +52144,12 @@
         "numero": 16295,
         "musica": "Vá Se Benzer",
         "genero": "MPB"
+    },
+    {
+        "cantor": "Preta Gil - Gloria Groove",
+        "numero": 17989,
+        "musica": "SO O AMOR",
+        "genero": "Pop"
     },
     {
         "cantor": "Preta Gil - Israel Novaes",
@@ -52764,12 +52848,6 @@
         "genero": "Gênero não encontrado"
     },
     {
-        "cantor": "Rag'N'Bone Man",
-        "numero": 19766,
-        "musica": "Innocent Man",
-        "genero": "Pop"
-    },
-    {
         "cantor": "Rag´N´Bone Man",
         "numero": 20406,
         "musica": "Human",
@@ -52780,6 +52858,12 @@
         "numero": 20147,
         "musica": "Killing In The Name",
         "genero": "Rap Metal"
+    },
+    {
+        "cantor": "Rag'N'Bone Man",
+        "numero": 19766,
+        "musica": "Innocent Man",
+        "genero": "Pop"
     },
     {
         "cantor": "Rai Saia Rodada",
@@ -61092,15 +61176,15 @@
         "genero": "Pop"
     },
     {
-        "cantor": "Suricato",
-        "numero": 15980,
-        "musica": "O Sanfoneiro Só Tocava Isso",
-        "genero": "Pop"
-    },
-    {
         "cantor": "Suricato - Melim",
         "numero": 16733,
         "musica": "Astronauta",
+        "genero": "Pop"
+    },
+    {
+        "cantor": "Suricato",
+        "numero": 15980,
+        "musica": "O Sanfoneiro Só Tocava Isso",
         "genero": "Pop"
     },
     {
@@ -62398,6 +62482,12 @@
         "numero": 17257,
         "musica": "Presente Do Ceu (Best Part)",
         "genero": "Pagode"
+    },
+    {
+        "cantor": "Thiaguinho - Liniker",
+        "numero": 17974,
+        "musica": "FEBRE",
+        "genero": "Pagode / MPB"
     },
     {
         "cantor": "Thiaguinho - Maná",
@@ -65454,6 +65544,12 @@
         "genero": "Pop rock com influências de reggae e indie"
     },
     {
+        "cantor": "Vitor Kley",
+        "numero": 17972,
+        "musica": "CARTA MARCADA",
+        "genero": "Pop Rock"
+    },
+    {
         "cantor": "Vitor Kley - Jorge E Mateus",
         "numero": 17738,
         "musica": "Porta Retrato",
@@ -66558,6 +66654,12 @@
         "genero": "Forró"
     },
     {
+        "cantor": "Xand Avião - Talita Mel",
+        "numero": 17983,
+        "musica": "MELZINHO",
+        "genero": "Forró"
+    },
+    {
         "cantor": "Xand Avião - Ze Vaqueiro",
         "numero": 17299,
         "musica": "Superacao Digital",
@@ -66580,6 +66682,12 @@
         "numero": 17708,
         "musica": "So Depois",
         "genero": "Sertanejo"
+    },
+    {
+        "cantor": "Xande de Pilares",
+        "numero": 17990,
+        "musica": "VENTO",
+        "genero": "Samba"
     },
     {
         "cantor": "Xcalypso",
@@ -66843,6 +66951,12 @@
         "cantor": "Zayn - Taylor Swift",
         "numero": 20085,
         "musica": "I Dont Wanna Live Forever",
+        "genero": "Pop"
+    },
+    {
+        "cantor": "Zaynara - Pabllo Vittar",
+        "numero": 17979,
+        "musica": "QUEM MANDA EM MIM",
         "genero": "Pop"
     },
     {
@@ -67173,6 +67287,12 @@
         "cantor": "Zé Neto E Cristiano",
         "numero": 17897,
         "musica": "Me Bloqueia",
+        "genero": "Sertanejo"
+    },
+    {
+        "cantor": "Zé Neto e Cristiano",
+        "numero": 17984,
+        "musica": "NUMA PANCADA SO",
         "genero": "Sertanejo"
     },
     {
