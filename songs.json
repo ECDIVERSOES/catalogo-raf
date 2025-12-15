@@ -3012,6 +3012,12 @@
         "genero": "Sertanejo"
     },
     {
+        "cantor": "Ana Castela - Diplo",
+        "numero": 18030,
+        "musica": "TROPA DO CHAPELAO",
+        "genero": "Agronejo / Sertanejo, Eletrônico"
+    },
+    {
         "cantor": "Ana Castela - Gustavo Mioto",
         "numero": 17866,
         "musica": "Fronteira",
@@ -7404,6 +7410,12 @@
         "genero": "Pop"
     },
     {
+        "cantor": "Belo",
+        "numero": 18027,
+        "musica": "PERFEITO PAR",
+        "genero": "Pagode"
+    },
+    {
         "cantor": "Belo - Ivete Sangalo",
         "numero": 16226,
         "musica": "Linda Rosa",
@@ -9825,6 +9837,12 @@
         "cantor": "Bruno e Marrone",
         "numero": 17936,
         "musica": "NANA",
+        "genero": "Sertanejo"
+    },
+    {
+        "cantor": "Bruno e Marrone",
+        "numero": 18021,
+        "musica": "AI QUE VONTADE",
         "genero": "Sertanejo"
     },
     {
@@ -22420,6 +22438,12 @@
         "numero": 7370,
         "musica": "Holliday Foi Muito",
         "genero": "Rock"
+    },
+    {
+        "cantor": "Falcão",
+        "numero": 18024,
+        "musica": "NO CUME",
+        "genero": "Forró humorístico"
     },
     {
         "cantor": "Fall Out Boy",
@@ -38574,6 +38598,12 @@
         "genero": "Sertanejo"
     },
     {
+        "cantor": "Luan Pereira - Ze Felipe - MC Tuto",
+        "numero": 18022,
+        "musica": "APOSTAR EM VOCE",
+        "genero": "Sertanejo, Funk"
+    },
+    {
         "cantor": "Luan Santana",
         "numero": 17964,
         "musica": "CLONE",
@@ -39256,6 +39286,12 @@
         "numero": 17447,
         "musica": "Maldivas",
         "genero": "Pop"
+    },
+    {
+        "cantor": "Ludmilla",
+        "numero": 18026,
+        "musica": "PARAISO",
+        "genero": "Pop, Funk"
     },
     {
         "cantor": "Ludmilla - Anitta",
@@ -40678,6 +40714,12 @@
         "numero": 17930,
         "musica": "VAI LA",
         "genero": "Sertanejo (Feminejo)"
+    },
+    {
+        "cantor": "Maiara e Maraísa",
+        "numero": 18028,
+        "musica": "SURTOS",
+        "genero": "Sertanejo"
     },
     {
         "cantor": "Maiara E Maraisa - Conde Do Forro",
@@ -50442,6 +50484,12 @@
         "genero": "MPB / Soul / Samba-Rock"
     },
     {
+        "cantor": "Paula Lima - Ucha",
+        "numero": 18029,
+        "musica": "TA QUERENDO UM DENGO",
+        "genero": "Soul, R&B"
+    },
+    {
         "cantor": "Paula Toller",
         "numero": 1128,
         "musica": "Derretendo Satélites",
@@ -51334,6 +51382,12 @@
         "numero": 17747,
         "musica": "Nosso Amor Quer Paz",
         "genero": "Sertanejo"
+    },
+    {
+        "cantor": "Pericles - Seu Jorge",
+        "numero": 18023,
+        "musica": "BOCA LOUCA",
+        "genero": "Samba, Pagode"
     },
     {
         "cantor": "Perla",
@@ -66274,6 +66328,12 @@
         "numero": 17946,
         "musica": "NINGUEM SABE",
         "genero": "Forró / Forró Eletrônico / Piseiro / Arrocha"
+    },
+    {
+        "cantor": "Wesley Safadão",
+        "numero": 18025,
+        "musica": "ONDE CABE UM CABE DOIS",
+        "genero": "Forró"
     },
     {
         "cantor": "Wesley Safadão - Alanzim Coreano",
