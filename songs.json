@@ -1878,6 +1878,12 @@
         "genero": "Pop"
     },
     {
+        "cantor": "Alexandre Pires - Leo Santana",
+        "numero": 18092,
+        "musica": "BUTECOTERAPIA",
+        "genero": "Pagode / Samba"
+    },
+    {
         "cantor": "Alexandre Pires - Menos E Mais",
         "numero": 17781,
         "musica": "Arrebatador",
@@ -3048,6 +3054,12 @@
         "genero": "sertanejo, agronejo"
     },
     {
+        "cantor": "Ana Castela",
+        "numero": 18090,
+        "musica": "VETERINARIO",
+        "genero": "Sertanejo / Agronejo"
+    },
+    {
         "cantor": "Ana Castela - Diplo",
         "numero": 18030,
         "musica": "TROPA DO CHAPELAO",
@@ -3664,6 +3676,12 @@
         "numero": 16017,
         "musica": "Cravo E Canela",
         "genero": "Pop, Funk Carioca"
+    },
+    {
+        "cantor": "Anitta - Viviane Batidão",
+        "numero": 18100,
+        "musica": "SO PRA TU",
+        "genero": "Pop / Tecnobrega"
     },
     {
         "cantor": "Anitta-Mc Zaac-Maejor-Tropkillaz-Dj Yuri",
@@ -4738,6 +4756,12 @@
         "numero": 18016,
         "musica": "OLHA EU AQUI",
         "genero": "Pagode/pop"
+    },
+    {
+        "cantor": "Atitude 67",
+        "numero": 18093,
+        "musica": "DESLIGA ESSA CIDADE",
+        "genero": "Pagode"
     },
     {
         "cantor": "Atitude 67 - Analaga - Vitor Kley",
@@ -7462,6 +7486,12 @@
         "numero": 18027,
         "musica": "PERFEITO PAR",
         "genero": "Pagode"
+    },
+    {
+        "cantor": "Belo",
+        "numero": 18088,
+        "musica": "PURA ADRENALINA",
+        "genero": "Pagode / Samba"
     },
     {
         "cantor": "Belo - Ivete Sangalo",
@@ -15738,6 +15768,12 @@
         "genero": "Pop"
     },
     {
+        "cantor": "Cutting Crew",
+        "numero": 20811,
+        "musica": "(I JUST) DIED IN YOUR ARMS",
+        "genero": "Pop Rock"
+    },
+    {
         "cantor": "Cw7",
         "numero": 15119,
         "musica": "Tudo Que Eu Sinto",
@@ -17748,6 +17784,12 @@
         "genero": "Pagode"
     },
     {
+        "cantor": "Dilsinho",
+        "numero": 18099,
+        "musica": "SEM CACHE",
+        "genero": "Pagode"
+    },
+    {
         "cantor": "Dilsinho - Atitude 67",
         "numero": 16926,
         "musica": "Me Deixa Pra La",
@@ -18106,6 +18148,12 @@
         "numero": 20412,
         "musica": "Everybody",
         "genero": "Eletrônica"
+    },
+    {
+        "cantor": "DJ Bobo",
+        "numero": 20815,
+        "musica": "LOVE IS ALL AROUND",
+        "genero": "Eurodance"
     },
     {
         "cantor": "Dj Guuga - Dj Ivis",
@@ -18969,6 +19017,12 @@
         "cantor": "Duran Duran",
         "numero": 20793,
         "musica": "HUNGRY LIKE THE WOLF",
+        "genero": "New Wave / Synth-pop"
+    },
+    {
+        "cantor": "Duran Duran",
+        "numero": 20818,
+        "musica": "THE REFLEX",
         "genero": "New Wave / Synth-pop"
     },
     {
@@ -21174,6 +21228,12 @@
         "genero": "Rock"
     },
     {
+        "cantor": "Engenheiros do Hawaii",
+        "numero": 18081,
+        "musica": "A MONTANHA",
+        "genero": "Rock Gaúcho / Rock Progressivo"
+    },
+    {
         "cantor": "Enrique Iglesias",
         "numero": 19163,
         "musica": "Bailamos",
@@ -21910,6 +21970,12 @@
         "numero": 7878,
         "musica": "Terremoto - Gospel",
         "genero": "Gospel"
+    },
+    {
+        "cantor": "F.R. David",
+        "numero": 20819,
+        "musica": "WORDS",
+        "genero": "Pop / Synth-pop"
     },
     {
         "cantor": "Fábio",
@@ -24340,6 +24406,12 @@
         "numero": 15667,
         "musica": "Manifesto",
         "genero": "Rock"
+    },
+    {
+        "cantor": "Fresno - NX Zero",
+        "numero": 18098,
+        "musica": "SE EU FOR, EU VOU COM VOCE",
+        "genero": "Emo / Rock Alternativo"
     },
     {
         "cantor": "Fruto Sagrado",
@@ -27720,6 +27792,12 @@
         "genero": "sertanejo"
     },
     {
+        "cantor": "Gusttavo Lima",
+        "numero": 18094,
+        "musica": "EMBAIXADOR (MAE)",
+        "genero": "Sertanejo"
+    },
+    {
         "cantor": "Gusttavo Lima - Ana Castela",
         "numero": 17793,
         "musica": "Canudinho",
@@ -29910,6 +29988,12 @@
         "genero": "MPB"
     },
     {
+        "cantor": "Ivan Lins",
+        "numero": 18083,
+        "musica": "AI, AI, AI, AI, AI",
+        "genero": "MPB / Jazz"
+    },
+    {
         "cantor": "Ivan Lins-José Feliciano",
         "numero": 7138,
         "musica": "Feliz Natal",
@@ -30622,6 +30706,12 @@
         "numero": 19546,
         "musica": "I Want You Back",
         "genero": "Soul"
+    },
+    {
+        "cantor": "Jackson 5",
+        "numero": 20817,
+        "musica": "THE LOVE YOU SAVE",
+        "genero": "Pop / Soul / R&B"
     },
     {
         "cantor": "Jacky James",
@@ -32026,6 +32116,12 @@
         "numero": 18078,
         "musica": "SEU SORRISO",
         "genero": "Piseiro / Forró"
+    },
+    {
+        "cantor": "Joao Gomes - Mestrinho - Jota.Pe",
+        "numero": 18084,
+        "musica": "BEIJA-FLOR",
+        "genero": "Forró / MPB"
     },
     {
         "cantor": "João Gomes - Tarcisio Do Acordeon",
@@ -33630,6 +33726,12 @@
         "genero": "Sertanejo"
     },
     {
+        "cantor": "Jorge e Mateus - Matheus e Kauan",
+        "numero": 18086,
+        "musica": "GAIVOTA",
+        "genero": "Sertanejo Universitário"
+    },
+    {
         "cantor": "Jorge E Mateus-Cristiano Araújo",
         "numero": 1817,
         "musica": "Efeitos",
@@ -34612,6 +34714,12 @@
         "numero": 18053,
         "musica": "LANCE LIVRE",
         "genero": "pagode"
+    },
+    {
+        "cantor": "Kamisa 10 - Henry Freitas",
+        "numero": 18091,
+        "musica": "5 LETRAS",
+        "genero": "Pagode"
     },
     {
         "cantor": "Kansas",
@@ -37482,6 +37590,12 @@
         "genero": "Forró/piseiro"
     },
     {
+        "cantor": "Leo Foguete",
+        "numero": 18095,
+        "musica": "HUMILDE",
+        "genero": "Piseiro"
+    },
+    {
         "cantor": "Leo Jaime",
         "numero": 16638,
         "musica": "Rock Estrela",
@@ -38340,6 +38454,12 @@
         "genero": "soul, MPB, R&B"
     },
     {
+        "cantor": "Liniker",
+        "numero": 18089,
+        "musica": "TUDO",
+        "genero": "MPB / Soul / Pop"
+    },
+    {
         "cantor": "Liniker - Os Caramelows",
         "numero": 17610,
         "musica": "Zero",
@@ -38386,6 +38506,12 @@
         "numero": 19869,
         "musica": "What I Ve Done",
         "genero": "Nu Metal, Rock"
+    },
+    {
+        "cantor": "Linkin Park",
+        "numero": 20814,
+        "musica": "LEAVE OUT ALL THE REST",
+        "genero": "Nu Metal / Rock Alternativo"
     },
     {
         "cantor": "Linox",
@@ -38884,6 +39010,12 @@
         "numero": 17069,
         "musica": "Ta Faltando Eu",
         "genero": "Sertanejo"
+    },
+    {
+        "cantor": "Luan Pereira - Leo Foguete - MC Don Juan",
+        "numero": 18097,
+        "musica": "NUNCA ESQUECIDO",
+        "genero": "Agronejo / Piseiro / Funk"
     },
     {
         "cantor": "Luan Pereira - MC Tuto - Grelo",
@@ -40846,6 +40978,12 @@
         "numero": 20737,
         "musica": "RAY OF LIGHT",
         "genero": "Pop, Dance Pop"
+    },
+    {
+        "cantor": "Madonna",
+        "numero": 20813,
+        "musica": "GET TOGETHER",
+        "genero": "Pop"
     },
     {
         "cantor": "Madonna - Anitta",
@@ -45444,6 +45582,12 @@
         "genero": "Pop"
     },
     {
+        "cantor": "Miley Cyrus",
+        "numero": 20820,
+        "musica": "YOUGER YOU",
+        "genero": "Pop"
+    },
+    {
         "cantor": "Miley Cyrus - Dua Lipa",
         "numero": 20263,
         "musica": "Prisoner",
@@ -46962,6 +47106,12 @@
         "genero": "Reggae"
     },
     {
+        "cantor": "Nattan - Anitta",
+        "numero": 18085,
+        "musica": "EU TO QUERENDO DE NOVO",
+        "genero": "Forró / Piseiro / Pop"
+    },
+    {
         "cantor": "Nattan - Leo Foguete",
         "numero": 17929,
         "musica": "ULTIMA NOITE",
@@ -46990,6 +47140,12 @@
         "numero": 20657,
         "musica": "Where Are You Now",
         "genero": "Rock"
+    },
+    {
+        "cantor": "Nazareth",
+        "numero": 20812,
+        "musica": "DREAM ON",
+        "genero": "Hard Rock"
     },
     {
         "cantor": "Nechvile",
@@ -48868,6 +49024,12 @@
         "numero": 20210,
         "musica": "Xanadu",
         "genero": "Pop"
+    },
+    {
+        "cantor": "Olivia Newton John",
+        "numero": 20816,
+        "musica": "MAGIC",
+        "genero": "Pop / Country Pop"
     },
     {
         "cantor": "Olivia Rodrigo",
@@ -63798,6 +63960,12 @@
         "genero": "Sertanejo"
     },
     {
+        "cantor": "Tiqueque",
+        "numero": 18082,
+        "musica": "A VELHA A FIAR",
+        "genero": "Música Infantil"
+    },
+    {
         "cantor": "Tiririca",
         "numero": 3423,
         "musica": "Eu Sou Chifrudo",
@@ -64972,6 +65140,12 @@
         "numero": 17017,
         "musica": "Homem De Pedra",
         "genero": "Sertanejo"
+    },
+    {
+        "cantor": "Trio Parada Dura",
+        "numero": 18096,
+        "musica": "ME MATA DE UMA VEZ",
+        "genero": "Sertanejo Raiz / Música Caipira"
     },
     {
         "cantor": "Trio Parada Dura - Marília Mendonça",
@@ -68284,6 +68458,12 @@
         "numero": 17590,
         "musica": "Tu Nao Sabes",
         "genero": "MPB"
+    },
+    {
+        "cantor": "Zeca Baleiro",
+        "numero": 18087,
+        "musica": "MEU AMOR, MEU BEM, ME AME",
+        "genero": "MPB / Folk / Regional Brasileiro"
     },
     {
         "cantor": "Zeca Baleiro-Fagner",
