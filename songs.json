@@ -3078,6 +3078,12 @@
         "genero": "Sertanejo"
     },
     {
+        "cantor": "Ana Castela - Pedro Sampaio",
+        "numero": 18101,
+        "musica": "AGORA OU NUNCA",
+        "genero": "Sertanejo / Agronejo / Funk"
+    },
+    {
         "cantor": "Ana Clara - Atitude 67",
         "numero": 16517,
         "musica": "Pagina Marcada",
@@ -8002,6 +8008,12 @@
         "numero": 16899,
         "musica": "Sequestraram Minha Sogra",
         "genero": "Samba"
+    },
+    {
+        "cantor": "Bezerra da Silva",
+        "numero": 18109,
+        "musica": "O VACILAO",
+        "genero": "Samba / Partido Alto"
     },
     {
         "cantor": "Biafra (Byafra)",
@@ -16872,6 +16884,12 @@
         "genero": "Rock"
     },
     {
+        "cantor": "Dejavu",
+        "numero": 18106,
+        "musica": "JOGAR AS CHAVES",
+        "genero": "Eurodance / Dance"
+    },
+    {
         "cantor": "Delta Goodrem",
         "numero": 9009,
         "musica": "Born To Try",
@@ -23565,6 +23583,12 @@
         "cantor": "Ferrugem",
         "numero": 18061,
         "musica": "CASAL DO MAL",
+        "genero": "Pagode"
+    },
+    {
+        "cantor": "Ferrugem",
+        "numero": 18102,
+        "musica": "ARREPENDIDACO (ONDE VOCE ANDA)",
         "genero": "Pagode"
     },
     {
@@ -34470,6 +34494,12 @@
         "genero": "Sertanejo"
     },
     {
+        "cantor": "Junior e Cezar",
+        "numero": 18104,
+        "musica": "CHEIRO DE CULPADO",
+        "genero": "Sertanejo"
+    },
+    {
         "cantor": "Jussara Silveira",
         "numero": 1192,
         "musica": "Além Do Paraíso",
@@ -36531,6 +36561,12 @@
         "cantor": "Lauana Prado",
         "numero": 17729,
         "musica": "Whisky Vagabundo",
+        "genero": "Sertanejo"
+    },
+    {
+        "cantor": "Lauana Prado - Agrado e Eduarda",
+        "numero": 18103,
+        "musica": "AS DONAS DA VOZ",
         "genero": "Sertanejo"
     },
     {
@@ -43458,6 +43494,12 @@
         "genero": "MPB"
     },
     {
+        "cantor": "Marisa Monte - Seu Jorge",
+        "numero": 18110,
+        "musica": "PRA MELHORAR",
+        "genero": "MPB / Samba / Soul"
+    },
+    {
         "cantor": "Marisa Monte-Erasmo Carlos",
         "numero": 9291,
         "musica": "Não Quero Ver Você Triste",
@@ -46545,6 +46587,12 @@
         "cantor": "Murilo Huff",
         "numero": 18072,
         "musica": "DEIXA EU",
+        "genero": "Sertanejo"
+    },
+    {
+        "cantor": "Murilo Huff",
+        "numero": 18108,
+        "musica": "NE",
         "genero": "Sertanejo"
     },
     {
@@ -50050,6 +50098,12 @@
         "numero": 16954,
         "musica": "Pecado De Amor",
         "genero": "MPB"
+    },
+    {
+        "cantor": "Pablo",
+        "numero": 18105,
+        "musica": "DESCULPE AI",
+        "genero": "Arrocha"
     },
     {
         "cantor": "Pablo - Daniela Mercury",
@@ -68368,6 +68422,12 @@
         "numero": 17882,
         "musica": "Adivinha Ai",
         "genero": "Forró"
+    },
+    {
+        "cantor": "Ze Vaqueiro",
+        "numero": 18107,
+        "musica": "MARAVILHOSA",
+        "genero": "Piseiro / Forró"
     },
     {
         "cantor": "Ze Vaqueiro - Dilsinho",
