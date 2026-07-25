@@ -3060,6 +3060,12 @@
         "genero": "Sertanejo / Agronejo"
     },
     {
+        "cantor": "Ana Castela",
+        "numero": 18126,
+        "musica": "HOJE TEM RODEIO",
+        "genero": "Sertanejo / Agronejo"
+    },
+    {
         "cantor": "Ana Castela - Diplo",
         "numero": 18030,
         "musica": "TROPA DO CHAPELAO",
@@ -4770,6 +4776,12 @@
         "genero": "Pagode"
     },
     {
+        "cantor": "Atitude 67",
+        "numero": 18124,
+        "musica": "GOSTEI DO BAILE",
+        "genero": "Pagode"
+    },
+    {
         "cantor": "Atitude 67 - Analaga - Vitor Kley",
         "numero": 17215,
         "musica": "Isso E Amor",
@@ -4900,6 +4912,12 @@
         "numero": 17306,
         "musica": "Liberdade (Quando O Grave Bate",
         "genero": "Pop"
+    },
+    {
+        "cantor": "Avine Vinny - Tarcisio do Acordeon",
+        "numero": 18121,
+        "musica": "ACEITA QUE ME AMA",
+        "genero": "Forró / Piseiro"
     },
     {
         "cantor": "Aviões Do Forró",
@@ -10786,6 +10804,12 @@
         "numero": 17582,
         "musica": "Agora Estou Sofrendo (Bleeding Heart)",
         "genero": "Forró"
+    },
+    {
+        "cantor": "Calcinha Preta",
+        "numero": 18128,
+        "musica": "MANCHETE DOS JORNAIS",
+        "genero": "Forró / Piseiro"
     },
     {
         "cantor": "Calling (The)",
@@ -17682,6 +17706,12 @@
         "genero": "Sertanejo"
     },
     {
+        "cantor": "Diego e Victor Hugo",
+        "numero": 18112,
+        "musica": "BEIJEI A CURA",
+        "genero": "Sertanejo"
+    },
+    {
         "cantor": "Diego E Victor Hugo - Bruno E Marrone",
         "numero": 17073,
         "musica": "Facas",
@@ -17805,6 +17835,12 @@
         "cantor": "Dilsinho",
         "numero": 18099,
         "musica": "SEM CACHE",
+        "genero": "Pagode"
+    },
+    {
+        "cantor": "Dilsinho",
+        "numero": 18127,
+        "musica": "INVERTEU",
         "genero": "Pagode"
     },
     {
@@ -24984,6 +25020,12 @@
         "genero": "MPB / Tropicália"
     },
     {
+        "cantor": "Gal Costa",
+        "numero": 18114,
+        "musica": "FLOR DE MARACUJA",
+        "genero": "MPB"
+    },
+    {
         "cantor": "Gal Costa - Marilia Mendonca",
         "numero": 17585,
         "musica": "Cuidando De Longe",
@@ -26176,6 +26218,12 @@
         "numero": 18042,
         "musica": "ATE JA",
         "genero": "pop, funk, R&B"
+    },
+    {
+        "cantor": "Gloria Groove",
+        "numero": 18117,
+        "musica": "O CHA",
+        "genero": "Pop / Funk"
     },
     {
         "cantor": "Gloria Groove - Anitta - Valesca Popozuda",
@@ -30018,6 +30066,12 @@
         "genero": "MPB / Jazz"
     },
     {
+        "cantor": "Ivan Lins",
+        "numero": 18125,
+        "musica": "GUARDE NOS OLHOS",
+        "genero": "MPB"
+    },
+    {
         "cantor": "Ivan Lins-José Feliciano",
         "numero": 7138,
         "musica": "Feliz Natal",
@@ -31516,6 +31570,12 @@
         "numero": 15801,
         "musica": "A Amizade É Tudo",
         "genero": "Pagode"
+    },
+    {
+        "cantor": "Jeninho - Mariana Fagundes",
+        "numero": 18129,
+        "musica": "PEAO TODO TATUADO",
+        "genero": "Sertanejo / Forró"
     },
     {
         "cantor": "Jennifer Hudson",
@@ -33724,6 +33784,12 @@
         "numero": 17931,
         "musica": "CANTADA BOBA",
         "genero": "Sertanejo Universitário"
+    },
+    {
+        "cantor": "Jorge e Mateus",
+        "numero": 18119,
+        "musica": "SO SE FOR SOZINHO",
+        "genero": "Sertanejo"
     },
     {
         "cantor": "Jorge e Mateus - Henrique e Juliano",
@@ -40098,6 +40164,12 @@
         "genero": "Forró"
     },
     {
+        "cantor": "Luiz Gonzaga",
+        "numero": 18111,
+        "musica": "BAIAO",
+        "genero": "Forró"
+    },
+    {
         "cantor": "Luiz Gonzaga - Elba Ramalho",
         "numero": 15714,
         "musica": "Qui Nem Jiló",
@@ -41446,6 +41518,12 @@
         "numero": 16553,
         "musica": "Corre Pro Meu Mar",
         "genero": "Reggae"
+    },
+    {
+        "cantor": "Maneva - Lauana Prado",
+        "numero": 18116,
+        "musica": "NO SOFA DA SALA",
+        "genero": "Reggae / Sertanejo"
     },
     {
         "cantor": "Maneva - Mc Hariel",
@@ -44196,6 +44274,12 @@
         "genero": "Sertanejo Universitário"
     },
     {
+        "cantor": "Matheus e Kauan",
+        "numero": 18123,
+        "musica": "BORA HOJE",
+        "genero": "Sertanejo"
+    },
+    {
         "cantor": "Matheus E Kauan - Anitta",
         "numero": 16337,
         "musica": "Ao Vivo E A Cores",
@@ -44956,6 +45040,12 @@
         "numero": 18006,
         "musica": "PELA ULTIMA VEZ",
         "genero": "Pagode, Piseiro"
+    },
+    {
+        "cantor": "Menos e Mais - Pablo",
+        "numero": 18130,
+        "musica": "SAUDADE INCONVENIENTE",
+        "genero": "Pagode / Arrocha"
     },
     {
         "cantor": "Menos e Mais - Simone Mendes",
@@ -47152,6 +47242,12 @@
         "numero": 2933,
         "musica": "Sorri, Sou Rei",
         "genero": "Reggae"
+    },
+    {
+        "cantor": "Nattan",
+        "numero": 18122,
+        "musica": "AMOR NA PRAIA",
+        "genero": "Forró / Piseiro"
     },
     {
         "cantor": "Nattan - Anitta",
@@ -52012,6 +52108,12 @@
         "numero": 17862,
         "musica": "Daquele Jeitao",
         "genero": "Sertanejo"
+    },
+    {
+        "cantor": "Pericles - Ferrugem",
+        "numero": 18115,
+        "musica": "FOGUETE",
+        "genero": "Pagode / Samba"
     },
     {
         "cantor": "Pericles - Jeniffer Nascimento",
@@ -61158,6 +61260,12 @@
         "genero": "Pop"
     },
     {
+        "cantor": "Solange Almeida",
+        "numero": 18118,
+        "musica": "O SOL JOAO VAI PEGAR FOGO",
+        "genero": "Forró / Axé"
+    },
+    {
         "cantor": "Solange Almeida - Bruno",
         "numero": 17125,
         "musica": "Fruto Da Imaginacao",
@@ -68232,6 +68340,12 @@
         "genero": "Sertanejo universitário"
     },
     {
+        "cantor": "Zé Neto e Cristiano",
+        "numero": 18113,
+        "musica": "CAMERA DA FRENTE",
+        "genero": "Sertanejo"
+    },
+    {
         "cantor": "Zé Paulo",
         "numero": 7991,
         "musica": "Louco Por Você",
@@ -68787,6 +68901,12 @@
         "cantor": "Zeca Pagodinho",
         "numero": 18065,
         "musica": "MINHA FE",
+        "genero": "Samba / Pagode"
+    },
+    {
+        "cantor": "Zeca Pagodinho",
+        "numero": 18120,
+        "musica": "VICE-VERSA",
         "genero": "Samba / Pagode"
     },
     {
